@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+    background-image: url("../IMG/fondo.jpg");    /*Problema con mostrar imagen en html          */
+   font-size: sans-serif;
+
+}
+
+/*nav {
+
+  outline: 1px solid yellow;
+}
+*/
+
